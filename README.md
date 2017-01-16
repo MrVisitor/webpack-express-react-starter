@@ -1,9 +1,16 @@
 # webpack-express-react-starter
 
-### Added Loaders
+### Plagins
 - svg-loader
 - image-loader
 - scss-loader
+- babel
+- file-loader
+- html-webpack-plugin
+- express
+- webpack
+- react
+- etc...
 
 ### Installation
 ```npm i```
