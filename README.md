@@ -1,9 +1,9 @@
 # webpack-express-react-starter
 
-Loaders:
-svg-loader
-image-loader
-scss-loader
+### Added Loaders
+- svg-loader
+- image-loader
+- scss-loader
 
 ### Installation
 ```npm i```
