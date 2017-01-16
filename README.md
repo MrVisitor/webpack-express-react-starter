@@ -1,2 +1,10 @@
 # webpack-express-react-starter
-Start pack
+
+Loaders:
+svg-loader
+image-loader
+scss-loader
+
+Deploying:
+npm i
+npm run server:dev or npm run server (prod)
