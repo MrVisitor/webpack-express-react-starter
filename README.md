@@ -15,6 +15,6 @@
 ### Installation
 ```npm i```
 
-```npm run server:dev```
+```(dev): npm run server:dev```
 or
-```npm run server (prod)```
+```(prod): npm run server```
