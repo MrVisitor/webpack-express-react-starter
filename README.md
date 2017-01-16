@@ -5,6 +5,9 @@ svg-loader
 image-loader
 scss-loader
 
-Deploying:
-npm i
-npm run server:dev or npm run server (prod)
+### Installation
+```npm i```
+
+```npm run server:dev```
+or
+```npm run server (prod)```
