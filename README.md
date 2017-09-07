@@ -1,6 +1,6 @@
 # webpack-express-react-starter
 
-### Plagins
+### Plugins
 - svg-loader
 - image-loader
 - scss-loader
